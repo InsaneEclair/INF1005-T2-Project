@@ -2,15 +2,15 @@ Web Server IP Address:  35.212.183.113
 MySQL Password: !Nf100%
 
 Part 1 (Basic Website Requireents)
-1. Pull code from Github, soonlong will upload his version
-2. Change image picture to current fish
-3. Create SQL Table for fish information (basically a database)
-4. Create Login SESSION(individual)
-5. Create Quantity and Cart button under each fish
-6. Create view for personalised cart
-7. Personalized Cart allows for quantity changes and removal.
-8. Search bar that utilize database to look for fish.
-9. About Us Page talking about our lord and saviour Yao Hao. 
+1. Pull code from Github, soonlong will upload his version <Done>
+2. Change image picture to current fish and change content <Yao Hao>
+3. Create SQL Table for fish information (basically a database) <Nicole>
+4. Create Login SESSION(individual) <Soon Long>
+5. Create Quantity and Cart button under each fish <Yao Hao>
+6. Create page for personalised cart <Adrian>
+7. Personalized Cart allows for quantity changes and removal. <Adrian>
+8. Search bar that utilize database to look for fish. <Afiqah> 
+9. About Us Page talking about our lord and saviour Yao Hao. <Every1> #BelieveInYaoHao
    
 Part 2 (Create Admin Rights)
 1. Create Admin account
