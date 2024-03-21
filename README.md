@@ -1,4 +1,5 @@
 Web Server IP Address:  35.212.183.113
+MySQL Password: !Nf100%
 1. Pull code from Github, soonlong will upload his version
 2. Change image picture to current fish
 3. Create SQL Table for fish information (basically a database)
