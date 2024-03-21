@@ -22,13 +22,13 @@
                 <article class="col-sm">
                     <h3>Poodles</h3>
                     <figure>
-                        <img src="images/poodle_small.jpg" alt="Poodle" class="img-thumbnail"
+                        <img src="images/Albino 'Lucy' Stingray.jpg" alt="als" class="img-thumbnail"
                         title="View larger image..."/>
                         </a>
-                        <figcaption>Standard Poodle</figcaption>
+                        <figcaption>Albino 'Lucy' Stingray</figcaption>
                     </figure>
                     <p>
-                    Poodles are a group of formal dog breeds, the Standard
+                    Albino Lucy Stingray are a group of formal dog breeds, the Standard
                     Poodle, Miniature Poodle and Toy Poodle...
                     </p>
                 </article>
