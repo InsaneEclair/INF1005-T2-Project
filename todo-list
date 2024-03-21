@@ -1,0 +1,18 @@
+Pick a lab from anyone except Nicole(Got server prob)
+Convert from Dogs and Cats to Fish (Consult Yao Hao Expert)
+Persistent Login (Create Sessions)
+Add an About Us Page talking about our lord and saviour Yao Hao. 
+Level 1: Commercialize the website to have page that can
+1. Same portrait of fish images with dropbox below for aount of fish and then add to cart.
+2. We need a database on mysql for fish 
+3. Search bar that utilize database.
+4. Link account and purchase database table. 
+5. Cart Page needs to have remove fish or modify amount to not go beyond inv.
+Level 2: Admin account
+1. Create a session solely for admin
+2. admin can change the amt of items available aka inv management.
+3. Admin stuff.
+4. update inventory after purchase.
+
+
+
